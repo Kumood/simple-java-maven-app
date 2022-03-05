@@ -17,6 +17,9 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.organization>Kumood</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>d08a12d69fa4fe997294d5fd62287cef427c1e2e</sonar.login>
   </properties>
   <build>
     <pluginManagement>
